@@ -1,0 +1,7 @@
+.task p {
+  border: 3px solid #ccc;
+  width: 50%;
+  margin: 0 auto;
+  padding-bottom: 5px;
+  font-weight: bold;
+}
